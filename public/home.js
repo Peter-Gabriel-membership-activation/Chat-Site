@@ -117,7 +117,33 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>COINBASE SUPPORT
+
+Your trusted help desk for everything crypto.
+
+Coinbase Support is the official customer service team for Coinbase, a leading platform for buying, selling, and storing cryptocurrencies such as Bitcoin, Ethereum, and many others.
+
+What We Do.
+Our support team is here to assist you with:
+
+1. Product & Service Inquiries
+Get quick answers about Coinbase features, tools, and services.
+
+2. Account & Transaction Support
+Resolve issues related to your account, payments, deposits, and trade history.
+
+3. Security & Verification Guidance
+Assistance with identity verification, account security, and compliance questions.
+
+4. Technical Troubleshooting
+Help with login problems, app performance, and connectivity issues.
+
+5. Fiat Withdrawals
+Guidance on withdrawing your local currency directly to your personal bank account.
+
+
+Need Help?
+You can typically reach Coinbase Support through there..</p>
           </div>
         `
         break
